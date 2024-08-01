@@ -48,7 +48,7 @@ overflow: hidden;
 }
 .ZE{
   position: relative;
-  left: 67px;
+  left: 77px;
   top: -5px;
   color: rgb(199,157,107);
   font-size: 35px;
@@ -63,7 +63,7 @@ overflow: hidden;
 .RO{
   position: relative;
   color: white;
-  right: 45px;
+  right: 50px;
   font-size: 35px;
   font-family: myfont;
   
@@ -136,7 +136,7 @@ overflow: hidden;
 .mainimage{
   position: absolute;
   bottom:-15px;
-  left: 480px; 
+  left: 520px; 
   overflow: hidden;
 }
 #im{
